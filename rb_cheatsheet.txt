@@ -1,2 +1,6 @@
-RbConfig::CONFIG["term"] : know where the installation file are located (need to preload it in irb with the flag :-rrbconfig
+" RbConfig::CONFIG["term"] " : know where the installation fileS are located (need to preload it in irb with the flag :-rrbconfig
 )
+
+" -e " : inline script
+
+" ruby -e 'puts $:' " : get the default load path
