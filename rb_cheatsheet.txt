@@ -1,0 +1,2 @@
+RbConfig::CONFIG["term"] : know where the installation file are located (need to preload it in irb with the flag :-rrbconfig
+)
